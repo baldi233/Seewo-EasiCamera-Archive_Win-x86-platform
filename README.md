@@ -1,5 +1,5 @@
 
-# Seewo_EasiCamera_Archive (Windows platform)
+# Seewo_EasiCamera_Archive (Windows x86 platform)
 > [!IMPORTANT]
 > **非希沃官方项目，本项目所有者不对本项目的软件的信息和安装包的来源和可靠性等造成的损失负责**
 
