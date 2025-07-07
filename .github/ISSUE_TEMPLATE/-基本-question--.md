@@ -1,5 +1,5 @@
 ---
-name: Custom issue template
+name: "(基本)Question ？"
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''
