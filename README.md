@@ -1,6 +1,11 @@
+
 # Seewo_EasiCamera_Archive
-存档希沃视频展台的安装包 (Windows平台)<br/>
+> [!IMPORTANT]
+> **非希沃官方项目，本项目所有者不对本项目的软件的信息和安装包的来源和可靠性等造成的损失负责**
+
+本项目为存档希沃视频展台的安装包 (Windows平台)<br/>
 [点我跳转到项目Releases下载页面](https://github.com/baldi233/Seewo_EasiCamera_Archive/releases)
+
 
 易希沃官网：https://e.seewo.com/ <br/>
 希沃视频展台官网：https://e.seewo.com/product/EasiCamera
