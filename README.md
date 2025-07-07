@@ -1,5 +1,5 @@
 # EasiCamera_Archive
-存档希沃视频展台的旧版本
+存档希沃视频展台的安装包
 
 官网：https://e.seewo.com/product/EasiCamera
 
